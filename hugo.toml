@@ -1,3 +1,6 @@
 baseURL = 'https://monjiapawne.github.io/me/'
 locale = 'en-us'
 title = 'me'
+
+[markup.highlight]
+  style = 'emacs'
